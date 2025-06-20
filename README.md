@@ -3,7 +3,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a97campos&show_icons=true&theme=dark)](https://github.com/a97campos/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a97campos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projetos
